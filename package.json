@@ -20,6 +20,7 @@
   "homepage": "https://github.com/TinkerDeng/try#readme",
   "devDependencies": {
     "glob": "^7.1.4",
+    "puppeteer": "^1.19.0",
     "rimraf": "^3.0.0"
   },
   "dependencies": {
