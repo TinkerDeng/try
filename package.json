@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start":"nodemon glob.js"
+    "start": "nodemon glob.js"
   },
   "repository": {
     "type": "git",
@@ -19,7 +19,8 @@
   },
   "homepage": "https://github.com/TinkerDeng/try#readme",
   "devDependencies": {
-    "glob": "^7.1.4"
+    "glob": "^7.1.4",
+    "rimraf": "^3.0.0"
   },
   "dependencies": {
     "nodemon": "^1.19.1"
